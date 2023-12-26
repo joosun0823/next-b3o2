@@ -18,7 +18,7 @@ function Contact() {
 
             <div className={contact.cardtitle}>
                 매칭을 축하드립니다!<br/>
-                공개된 연락처는 24시간 이후 삭제돼요.<br/>
+                공개된 연락처는 24시간 이후 삭제돼요. <br/>
                 좋은 소식 기대할게요 (｡•̀ᴗ-)✧ </div>
             <div className={contact.card}>
                 <div className={contact.row}>
